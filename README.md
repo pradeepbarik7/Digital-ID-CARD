@@ -48,4 +48,4 @@ QR Code generation for each employee ID
 Google Sheets integration for live data
 Admin panel for uploading photos & CSVs
 Download as PDF or print support.
-
+---------------------------------
